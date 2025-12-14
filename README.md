@@ -66,3 +66,15 @@ Next steps include:
 - Aggregating degree pathways by institutional control
 - Visualizing regional distributions of degree types
 - Summarizing key structural patterns and insights
+
+---
+## Analysis Plan
+
+This project explores structural patterns in U.S. higher education using institutional metadata. 
+The analysis focuses on:
+
+- Comparing degree focus across public, private nonprofit, and private for-profit institutions
+- Examining how degree types vary by geographic region
+- Identifying regional concentrations of institutional control types
+
+The goal is to understand how institutional structure and geography shape available educational pathways.
